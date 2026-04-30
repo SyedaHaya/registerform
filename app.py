@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os #for the purpose of file modification
-import plotly_express as px
+import plotly.express as px
 st.set_page_config(
     page_title="Event Registrartion Form",
     layout="centered"
